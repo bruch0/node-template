@@ -26,4 +26,4 @@ rm -rf .git
 git init
 ```
 
-### Move the readME.md from the ./docs folder and dele the folder
+### Move the readME.md from the ./docs folder and delete the folder
